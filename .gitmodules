@@ -1,0 +1,12 @@
+[submodule "edge264-mvc"]
+	path = edge264-mvc
+	url = https://github.com/jens-duttke/edge264-mvc.git
+[submodule "mvc-source"]
+	path = mvc-source
+	url = https://github.com/jens-duttke/mvc-source.git
+[submodule "vapoursynth"]
+	path = vapoursynth
+	url = https://github.com/vapoursynth/vapoursynth.git
+[submodule "tsMuxer"]
+	path = tsMuxer
+	url = https://github.com/teaching-droid/tsMuxer.git
