@@ -1,5 +1,7 @@
 # bd3d2sbs
 
+## BASH SCRIPTS WRITTEN BY CLAUDE
+
 Converts 3D Blu-rays into stereoscopic Full/Half-SBS MKV files on Linux. A
 bash + fzf port of the workflow behind the Windows tool BD3D2MK3D.
 
